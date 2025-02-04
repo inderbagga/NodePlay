@@ -8,13 +8,13 @@
   - select_compass tool
 * connecting with MongoDB Compass
   - select version_1.38 or later<br />
-Output: Mongo Connection string `mongodb+srv://inderbagga:<db_password>@cluster0.rteap.mongodb.net/`
+**Output:** Mongo Connection string `mongodb+srv://inderbagga:<db_password>@cluster0.rteap.mongodb.net/`
 
 2. Download [(GUI) MongoDB Compass 1.4.52 (Stable)](https://www.mongodb.com/try/download/compass)
    <br />
    Description: explore and manipulate mongo database
    <br />
-   Input: MongoDB Connection string [attach_img]mongo_1
+   **Input:** MongoDB Connection string [attach_img]mongo_1
 
 
 
